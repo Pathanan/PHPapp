@@ -3,7 +3,7 @@
 <body>
 
 <?php
-echo "Pathanan charoenklang";
+echo "Pathanan charoenklang burapha univercity";
 ?>
 
 </body>
